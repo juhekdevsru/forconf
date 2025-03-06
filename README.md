@@ -28,6 +28,7 @@ chat_project/
 │── README.md             # Документация по проекту
 
 
+
 cmd/ - Исполняемые файлы (сервер и клиент)
 cmd/server/main.go -> Запускает сервер.
 cmd/client/main.go -> Запускает клиента.
